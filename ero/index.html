@@ -42,24 +42,13 @@ var lbwpsOptions = {"label_facebook":"\u041f\u043e\u0434\u0435\u043b\u0438\u0442
 <body>
 
 
-<!-- <div id="preloader">
-    <img src="data:image/png;base64,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">
 
-<h2>TouchQueen</h2>
-<p>У нас много интересного для тебя!<br>Дождись полной загрузки страницы</p>
-</div> -->
-<div id="preloader_small">
-Страница загружается...
-</div>
-<script>
-jQuery(window).on('load', function() {
-jQuery('#preloader_small').css('display', 'none');
-});
-    </script>
+
+
 
 
 <!-- Modal -->
-<!-- <div class="modal fade show" id="exampleModal_age" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal fade show" id="exampleModal_age" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
   <div class="modal-dialog" role="document">
     <div class="modal-content">
      
@@ -97,7 +86,7 @@ jQuery('.container-fluid').css('filter', 'blur(0px)');
     });
 
 
-    </script> -->
+    </script>
 
   <div class="get_stories">
         <a target="_blank" href="http://touchqueen.me/?from=main_school">Индивидуальные тренинги</a>
