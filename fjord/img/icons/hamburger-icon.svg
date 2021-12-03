@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="8px" viewBox="0 0 16 8" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>hamburger-icon</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-313.000000, -109.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <g id="icons" transform="translate(113.000000, 71.000000)">
+                <g id="white">
+                    <path d="M200,38 L216,38 L216,39 L200,39 L200,38 Z M200,45 L216,45 L216,46 L200,46 L200,45 Z" id="hamburger-icon"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1259px" height="293px" viewBox="0 0 1259 293" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>pattern</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-48.000000, -656.000000)" stroke="#FFEDDF" stroke-width="4">
+            <g id="pattern" transform="translate(49.000000, 659.000000)">
+                <polyline id="Path-4" points="399 292 580 111 761 292"></polyline>
+                <polyline id="Path-4" points="0 292 181 111 289 218"></polyline>
+                <polyline id="Path-5" transform="translate(317.609252, 236.359252) scale(-1, 1) translate(-317.609252, -236.359252) " points="213 266 302.5 176.5 422.218504 296.218504"></polyline>
+                <polyline id="Path-5" transform="translate(431.500000, 190.000000) scale(-1, 1) translate(-431.500000, -190.000000) " points="379 204.855221 423.917155 160 484 220"></polyline>
+                <polyline id="Path-5" points="671 202 760.5 112.5 935.876414 291"></polyline>
+                <polyline id="Path-6" points="807 158.454843 965 0.454842962 1268.77258 304.227421"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>
